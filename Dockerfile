@@ -1,5 +1,5 @@
 # Creating a python base with shared environment variables
-FROM python:3.6-slim as python-base
+FROM python:3.5-slim as python-base
 ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1 \
     PIP_NO_CACHE_DIR=off \
