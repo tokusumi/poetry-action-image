@@ -1,5 +1,5 @@
 # poetry-action-image
 build and pull docker image to docker hub with GitHub Actions
 
-* python: v3.5
+* python: v3.8
 * poetry: v1.0.0
